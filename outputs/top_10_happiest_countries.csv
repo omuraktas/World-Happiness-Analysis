@@ -1,0 +1,11 @@
+country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption
+Finland,Western Europe,7.804,1.888,1.585,0.535,0.772,0.126,0.535
+Denmark,Western Europe,7.586,1.949,1.548,0.537,0.734,0.208,0.525
+Iceland,Western Europe,7.53,1.926,1.62,0.559,0.738,0.25,0.187
+Israel,Middle East and North Africa,7.473,1.833,1.521,0.577,0.569,0.124,0.158
+Netherlands,Western Europe,7.403,1.942,1.488,0.545,0.672,0.251,0.394
+Sweden,Western Europe,7.395,1.921,1.51,0.562,0.754,0.225,0.52
+Norway,Western Europe,7.315,1.994,1.521,0.544,0.752,0.212,0.463
+Switzerland,Western Europe,7.24,2.022,1.463,0.582,0.678,0.151,0.475
+Luxembourg,Western Europe,7.228,2.2,1.357,0.549,0.71,0.149,0.418
+New Zealand,North America and ANZ,7.123,1.842,1.544,0.513,0.672,0.23,0.471
